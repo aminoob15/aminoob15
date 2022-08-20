@@ -1,6 +1,6 @@
 <h2 align="center"><b> 🔰 Personal Information 🔰 </b></h2>
 
-<p align='Middle'><a href='https://github.com/aminoob15'><img src='https://wallpaperaccess.com/money-heist-berlin' width='600"'></a></p>
+<p align='Middle'><a href='https://github.com/aminoob15'><img src='https://telegra.ph/file/80004ad9a6f02b5f48283.jpg' width='600"'></a></p>
 
 ``` 
    ┏━━━━━━━━━━━♠️ABOUT ME♠️━━━━━━━━━━━┓
